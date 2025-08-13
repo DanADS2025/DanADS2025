@@ -10,7 +10,7 @@
 - **Áreas:** Saúde, Análise de Dados
 
 ## 📂 Projetos em Destaque
-[![Planilha Financeira](https://img.shields.io/badge/Planilha_Financeira-Excel-green)](PK))
+[![Planilha Financeira](https://img.shields.io/badge/Planilha_Financeira-Excel-green)]
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel-blue?logo=linkedin)](https://linkedin.com/in/daniel-oliveira-9a4089264)
