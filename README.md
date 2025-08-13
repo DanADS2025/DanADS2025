@@ -10,7 +10,7 @@
 - **Áreas:** Saúde, Análise de Dados
 
 ## 📂 Projetos em Destaque
-[![Planilha Financeira](https://img.shields.io/badge/Planilha_Financeira-Excel-green)]([link-do-projeto-aqui](https://acadcruzeirodosul-my.sharepoint.com/:x:/g/personal/daniel_silva116_cs_cruzeirodosul_edu_br/EUnypqpcZ9VDm3ge2QpHxVEBKF1XAXoKXiQbqj82mUeftA?e=h1fzM4))
+[![Planilha Financeira](https://img.shields.io/badge/Planilha_Financeira-Excel-green)]([(https://acadcruzeirodosul-my.sharepoint.com/:x:/g/personal/daniel_silva116_cs_cruzeirodosul_edu_br/EUnypqpcZ9VDm3ge2QpHxVEBKF1XAXoKXiQbqj82mUeftA?e=h1fzM4))
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel-blue?logo=linkedin)](https://linkedin.com/in/daniel-oliveira-9a4089264)
