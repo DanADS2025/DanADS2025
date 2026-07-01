@@ -30,11 +30,6 @@ Com sólida base técnica em **Análise e Desenvolvimento de Sistemas (ADS)**, a
 
 ---
 
-### 🏥 Contexto de Negócio & Bagagem anterior
-* **Domínio em Healthcare:** Histórico profissional na área da saúde (Enfermagem / Saúde Pública), o que traz uma visão profunda e analítica para o ecossistema de saúde e redes farmacêuticas.
-
----
-
 ### 📫 Como me encontrar
 * [LinkedIn](https://www.linkedin.com/in/daniel-oliveira-9a4089264)
 
